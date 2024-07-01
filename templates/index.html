@@ -23,18 +23,28 @@
     <button id="installButton" style="display: none;">Install App</button>
 
     {% for topic in topics %}
-        <h1>{{ topic }}</h1>
+        <div class="button topic-button" onclick="toggleTopicContent('{{ topic }}')">{{ topic }}</div>
+        <div id="{{ topic }}" class="content">
         {% for message in topics[topic] %}
-            <div class="button" onclick="navigateToDisplay('{{ message['chinese'] }}')">{{ message['english'] }}</button>
+            <div class="button" onclick="navigateToDisplay('{{ message['chinese'] }}')">{{ message['english'] }}</div>
         {% endfor %}
+        </div>
     {% endfor %}
 
     <script>
         function navigateToDisplay(text) {
             window.location.href = "{{ url_for('display', text='') }}" + text;
         }
-    </script>
 
+        function toggleTopicContent(topic) {
+            let shown = document.getElementById(topic).style.display;
+            if (!shown || shown === "none") {
+                document.getElementById(topic).style.display = "block";
+            } else {
+                document.getElementById(topic).style.display = "none";
+            }
+        }
+    </script>
 
     <script>
         let deferredPrompt;

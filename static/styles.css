@@ -5,10 +5,22 @@ body {
 .button {
 	padding: 15px;
 	margin: 10px;
-	font-size: 14px;
+	font-size: 20px;
+	border: 2px black solid;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.topic-button {
+	background-color: bisque;
+	text-transform: uppercase;
 }
 
 .display-text {
 	font-weight: bold;
 	font-size: 12.5vw;
+}
+
+.content {
+	display: none;
 }
