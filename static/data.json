@@ -13,7 +13,11 @@
       { "english": "We arrived an hour ago.", "chinese": "我們一個小時前到的。" },
       { "english": "I arrived an hour ago.", "chinese": "我一個小時前到的。" },
       { "english": "We have been here for many hours now.", "chinese": "我們已經在這裡很多小時了。" },
-      { "english": "I have been here for many hours now.", "chinese": "我已經在這裡很多小時了。" }
+      { "english": "I have been here for many hours now.", "chinese": "我已經在這裡很多小時了。" },
+      { "english": "We are not leaving yet.", "chinese": "我們還不會離開。" },
+      { "english": "We will not leave when you are asleep.", "chinese": "您睡著的時候我們不會離開。" },
+      { "english": "We will leave after lunch.", "chinese": "我們午餐後會離開。" },
+      { "english": "We will leave after dinner.", "chinese": "我們晚餐後會離開。" }
     ],
     "mealtime": [
       { "english": "We already ate breakfast.", "chinese": "我們已經吃過早餐了。" },
@@ -28,17 +32,17 @@
       { "english": "Do you want some dessert?", "chinese": "您想要些甜點嗎？" },
       { "english": "Is the food hot enough?", "chinese": "食物夠熱嗎？" }
     ],
-    "weather": [
-      { "english": "It's sunny today.", "chinese": "今天是晴天。" },
-      { "english": "Looks like it's going to rain.", "chinese": "看起來像要下雨了。" },
-      { "english": "The weather is nice today.", "chinese": "今天天氣很好。" },
-      { "english": "It's very hot today.", "chinese": "今天很熱。" },
-      { "english": "It's quite cold today.", "chinese": "今天很冷。" },
-      { "english": "Is it windy outside?", "chinese": "外面風很大嗎？" },
-      { "english": "It will rain today.", "chinese": "今天會下雨。" },
-      { "english": "It's a beautiful day, isn't it?", "chinese": "今天天氣真好，不是嗎？" },
-      { "english": "Do you like this weather?", "chinese": "您喜歡這樣的天氣嗎？" },
-      { "english": "The weather has been unpredictable lately.", "chinese": "最近天氣變化無常。" }
+    "caretaker": [
+      { "english": "Your caretaker works hard.", "chinese": "您的護理員工作很努力。" },
+      { "english": "I think you can trust your caretaker.", "chinese": "我認為您可以信任您的護理員。" },
+      { "english": "Your caretaker is very kind.", "chinese": "您的護理員很親切。" },
+      { "english": "Your caretaker is very attentive.", "chinese": "您的護理員非常細心。" },
+      { "english": "Your caretaker takes good care of you.", "chinese": "您的護理員照顧您得很好。" },
+      { "english": "Your caretaker is very responsible.", "chinese": "您的護理員非常負責。" },
+      { "english": "You are in good hands with your caretaker.", "chinese": "有您的護理員照顧，您很安全。" },
+      { "english": "Your caretaker is very experienced.", "chinese": "您的護理員很有經驗。" },
+      { "english": "Your caretaker always knows what you need.", "chinese": "您的護理員總是知道您需要什麼。" },
+      { "english": "Your caretaker is very patient.", "chinese": "您的護理員很有耐心。" }
     ],
     "health": [
       { "english": "Do you want to drink water?", "chinese": "您想喝水嗎？" },
@@ -53,7 +57,8 @@
       { "english": "Do you need to rest?", "chinese": "您需要休息嗎？" },
       { "english": "Are you feeling dizzy?", "chinese": "您感覺頭暈嗎？" },
       { "english": "Have you exercised today?", "chinese": "您今天有運動嗎？" },
-      { "english": "Do you want to sleep?", "chinese": "您想睡覺嗎？" }
+      { "english": "Do you want to sleep?", "chinese": "您想睡覺嗎？" },
+      { "english": "Go to sleep and get some rest.", "chinese": "去睡覺休息一下。" }
     ],
     "activities": [
       { "english": "Have you written anything lately?", "chinese": "您最近寫了什麼嗎？" },
@@ -63,12 +68,22 @@
     "memories": [
       { "english": "Do you remember our last visit?", "chinese": "您記得我們上次的拜訪嗎？" },
       { "english": "Tell me about your childhood.", "chinese": "告訴我您的童年。" },
-      { "english": "Do you remember your first job?", "chinese": "您記得您的第一份工作嗎？" },
       { "english": "What was your wedding day like?", "chinese": "您的婚禮那天是什麼樣的？" },
-      { "english": "Tell me about your favorite holiday.", "chinese": "告訴我您最喜歡的節日。" },
       { "english": "Do you remember your school days?", "chinese": "您記得您的學校時光嗎？" },
       { "english": "Tell me about a good friend of yours.", "chinese": "告訴我您最好的朋友。" },
       { "english": "What was your favorite place to visit?", "chinese": "您最喜歡去的地方是什麼？" }
+    ],
+    "weather": [
+      { "english": "It's sunny today.", "chinese": "今天是晴天。" },
+      { "english": "Looks like it's going to rain.", "chinese": "看起來像要下雨了。" },
+      { "english": "The weather is nice today.", "chinese": "今天天氣很好。" },
+      { "english": "It's very hot today.", "chinese": "今天很熱。" },
+      { "english": "It's quite cold today.", "chinese": "今天很冷。" },
+      { "english": "Is it windy outside?", "chinese": "外面風很大嗎？" },
+      { "english": "It will rain today.", "chinese": "今天會下雨。" },
+      { "english": "It's a beautiful day, isn't it?", "chinese": "今天天氣真好，不是嗎？" },
+      { "english": "Do you like this weather?", "chinese": "您喜歡這樣的天氣嗎？" },
+      { "english": "The weather has been unpredictable lately.", "chinese": "最近天氣變化無常。" }
     ]
   }
 }
