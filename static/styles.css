@@ -4,6 +4,8 @@ body {
 
 button {
 	padding: 15px;
+	margin: 10px;
+	font-size: 14px;
 }
 
 .display-text {

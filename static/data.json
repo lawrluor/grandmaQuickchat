@@ -20,15 +20,14 @@
       { "english": "We already ate dinner.", "chinese": "我們已經吃過晚餐了。" },
       { "english": "We will eat together.", "chinese": "我們會一起吃飯。" },
       { "english": "We already have enough napkins.", "chinese": "我們已經有足夠的餐巾了。" },
+      { "english": "Do you need more water?", "chinese": "你需要更多的水嗎？" },
+      { "english": "Would you like a napkin?", "chinese": "你需要餐巾嗎？" },
       { "english": "How is the food?", "chinese": "食物怎麼樣？" },
       { "english": "Today is crowded.", "chinese": "今天很擁擠。" },
       { "english": "Did you eat enough?", "chinese": "你吃飽了嗎？" },
-      { "english": "What did you have for lunch?", "chinese": "你午餐吃了什麼？" },
       { "english": "Do you want some dessert?", "chinese": "你想要些甜點嗎？" },
       { "english": "How does it taste?", "chinese": "味道如何？" },
       { "english": "Is the food hot enough?", "chinese": "食物夠熱嗎？" },
-      { "english": "Do you need more water?", "chinese": "你需要更多的水嗎？" },
-      { "english": "Would you like a napkin?", "chinese": "你需要餐巾嗎？" },
       { "english": "Are you enjoying your meal?", "chinese": "你喜歡這頓飯嗎？" }
     ],
     "weather": [
