@@ -25,7 +25,7 @@
     {% for topic in topics %}
         <h1>{{ topic }}</h1>
         {% for message in topics[topic] %}
-            <button onclick="navigateToDisplay('{{ message['chinese'] }}')">{{ message['english'] }}</button>
+            <div class="button" onclick="navigateToDisplay('{{ message['chinese'] }}')">{{ message['english'] }}</button>
         {% endfor %}
     {% endfor %}
 

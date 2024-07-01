@@ -26,7 +26,7 @@
       { "english": "Today is crowded.", "chinese": "今天很擁擠。" },
       { "english": "Did you eat enough?", "chinese": "您吃飽了嗎？" },
       { "english": "Do you want some dessert?", "chinese": "您想要些甜點嗎？" },
-      { "english": "Is the food hot enough?", "chinese": "食物夠熱嗎？" },
+      { "english": "Is the food hot enough?", "chinese": "食物夠熱嗎？" }
     ],
     "weather": [
       { "english": "It's sunny today.", "chinese": "今天是晴天。" },
