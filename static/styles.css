@@ -1,0 +1,12 @@
+body {
+	width: 100vw;
+}
+
+button {
+	padding: 15px;
+}
+
+.display-text {
+	font-weight: bold;
+	font-size: 12.5vw;
+}

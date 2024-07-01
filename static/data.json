@@ -1,0 +1,80 @@
+{
+  "topics": {
+    "arrivals and goodbyes": [
+      { "english": "I am staying here tonight.", "chinese": "我今晚會留在這裡。" },
+      { "english": "We are staying here tonight.", "chinese": "我們今晚會留在這裡。" },
+      { "english": "I am going back to the hotel tonight.", "chinese": "我今晚會回酒店。" },
+      { "english": "We are going back to the hotel tonight.", "chinese": "我們今晚會回酒店。" },
+      { "english": "We are leaving now.", "chinese": "我們現在要離開了。" },
+      { "english": "I am leaving now.", "chinese": "我現在要離開了。" },
+      { "english": "We just arrived.", "chinese": "我們剛到。" },
+      { "english": "I just arrived.", "chinese": "我剛到。" },
+      { "english": "We arrived an hour ago.", "chinese": "我們一個小時前到的。" },
+      { "english": "I arrived an hour ago.", "chinese": "我一個小時前到的。" },
+      { "english": "We have been here for many hours now.", "chinese": "我們已經在這裡很多小時了。" },
+      { "english": "I have been here for many hours now.", "chinese": "我已經在這裡很多小時了。" }
+    ],
+    "mealtime": [
+      { "english": "We already ate breakfast.", "chinese": "我們已經吃過早餐了。" },
+      { "english": "We already ate lunch.", "chinese": "我們已經吃過午餐了。" },
+      { "english": "We already ate dinner.", "chinese": "我們已經吃過晚餐了。" },
+      { "english": "We will eat together.", "chinese": "我們會一起吃飯。" },
+      { "english": "We already have enough napkins.", "chinese": "我們已經有足夠的餐巾了。" },
+      { "english": "How is the food?", "chinese": "食物怎麼樣？" },
+      { "english": "Today is crowded.", "chinese": "今天很擁擠。" },
+      { "english": "Did you eat enough?", "chinese": "你吃飽了嗎？" },
+      { "english": "What did you have for lunch?", "chinese": "你午餐吃了什麼？" },
+      { "english": "Do you want some dessert?", "chinese": "你想要些甜點嗎？" },
+      { "english": "How does it taste?", "chinese": "味道如何？" },
+      { "english": "Is the food hot enough?", "chinese": "食物夠熱嗎？" },
+      { "english": "Do you need more water?", "chinese": "你需要更多的水嗎？" },
+      { "english": "Would you like a napkin?", "chinese": "你需要餐巾嗎？" },
+      { "english": "Are you enjoying your meal?", "chinese": "你喜歡這頓飯嗎？" }
+    ],
+    "weather": [
+      { "english": "It's sunny today.", "chinese": "今天是晴天。" },
+      { "english": "Looks like it's going to rain.", "chinese": "看起來像要下雨了。" },
+      { "english": "The weather is nice today.", "chinese": "今天天氣很好。" },
+      { "english": "It's very hot today.", "chinese": "今天很熱。" },
+      { "english": "It's quite cold today.", "chinese": "今天很冷。" },
+      { "english": "Is it windy outside?", "chinese": "外面風很大嗎？" },
+      { "english": "It will rain today.", "chinese": "今天會下雨。" },
+      { "english": "It's a beautiful day, isn't it?", "chinese": "今天天氣真好，不是嗎？" },
+      { "english": "Do you like this weather?", "chinese": "你喜歡這樣的天氣嗎？" },
+      { "english": "The weather has been unpredictable lately.", "chinese": "最近天氣變化無常。" }
+    ],
+    "health": [
+      { "english": "Do you want to drink water?", "chinese": "你想喝水嗎？" },
+      { "english": "Do you want to eat anything?", "chinese": "你想吃點東西嗎？" },
+      { "english": "How are you feeling today?", "chinese": "你今天感覺怎麼樣？" },
+      { "english": "Did you take your medicine?", "chinese": "你吃藥了嗎？" },
+      { "english": "Are you in any pain?", "chinese": "你有痛嗎？" },
+      { "english": "How is your back today?", "chinese": "你的背今天怎麼樣？" },
+      { "english": "Do you need to see the doctor?", "chinese": "你需要看醫生嗎？" },
+      { "english": "Are you sleeping well?", "chinese": "你睡得好嗎？" },
+      { "english": "How is your appetite?", "chinese": "你的食慾怎麼樣？" },
+      { "english": "Do you need to rest?", "chinese": "你需要休息嗎？" },
+      { "english": "Are you feeling dizzy?", "chinese": "你感覺頭暈嗎？" },
+      { "english": "Have you exercised today?", "chinese": "你今天有運動嗎？" },
+      { "english": "Do you want to sleep?", "chinese": "你想睡覺嗎？" }
+    ],
+    "activities": [
+      { "english": "Did you watch any TV today?", "chinese": "你今天看電視了嗎？" },
+      { "english": "Have you written anything lately?", "chinese": "你最近寫了什麼嗎？" },
+      { "english": "Did you go for a walk?", "chinese": "你去散步了嗎？" },
+      { "english": "Do you still read at all?", "chinese": "你還有在看書嗎？" }
+    ],
+    "memories": [
+      { "english": "Do you remember our last visit?", "chinese": "你記得我們上次的拜訪嗎？" },
+      { "english": "Tell me about your childhood.", "chinese": "告訴我你的童年。" },
+      { "english": "Do you remember your first job?", "chinese": "你記得你的第一份工作嗎？" },
+      { "english": "What was your wedding day like?", "chinese": "你的婚禮那天是什麼樣的？" },
+      { "english": "Tell me about your favorite holiday.", "chinese": "告訴我你最喜歡的節日。" },
+      { "english": "Do you remember your school days?", "chinese": "你記得你的學校時光嗎？" },
+      { "english": "What was your first car?", "chinese": "你的第一輛車是什麼樣的？" },
+      { "english": "Tell me about your best friend.", "chinese": "告訴我你最好的朋友。" },
+      { "english": "Do you have any funny stories?", "chinese": "你有什麼有趣的故事嗎？" },
+      { "english": "What was your favorite place to visit?", "chinese": "你最喜歡去的地方是什麼？" }
+    ]
+  }
+}
